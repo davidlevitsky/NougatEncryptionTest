@@ -1,4 +1,4 @@
-# Playing Around with Security in Android 7.0
+# Experimenting with Security in Android 7.0
 
 ### by David Levitsky
 
